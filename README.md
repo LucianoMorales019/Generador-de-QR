@@ -4,6 +4,13 @@ Aplicación interactiva de consola escrita en Python para generar imágenes de
 códigos QR a partir de texto o enlaces. Permite elegir el color del código y
 el color de fondo.
 
+## Integrantes
+
+- Luciano Morales / LucianoMorales019
+-
+-
+-
+
 ## Requisitos
 
 - Python 3.9 o superior.
@@ -54,8 +61,9 @@ python Generador_de_QR_Luciano.py
 ```
 
 Ingresá el texto o enlace, el nombre del archivo de salida y, si querés,
-los colores. Si omitís la extensión, el programa agrega `.png`. Al terminar,
-mostrará la ruta absoluta donde guardó la imagen.
+los colores. Si omitís la extensión, el programa agrega `.png`; se admite
+únicamente ese formato. Al terminar, mostrará la ruta absoluta donde guardó
+la imagen.
 
 ## Estructura del proyecto
 
@@ -63,7 +71,7 @@ mostrará la ruta absoluta donde guardó la imagen.
 Generador-de-QR/
 ├── .gitignore
 ├── Generador_de_QR_Luciano.py
-├── ModuloGeneradorQR.py
+├── modulo_generador_qr.py
 ├── requirements.txt
 └── README.md
 ```
