@@ -7,9 +7,9 @@ el color de fondo.
 ## Integrantes
 
 - Luciano Morales / LucianoMorales019
--
--
--
+- Lucas Ariel Holës
+- Kevin Alejandro Medina
+-Gabriel Alfredo Regali
 
 ## Requisitos
 
